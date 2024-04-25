@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel Blanco.</h1>
-- 🌱 I’m currently learning **React Js, PHP Laravel**
+- 🌱 I’m currently learning React Js, PHP Laravel
 
-- 📫 How to reach me **manuelvalentin1999@gmail.com**
+- 📫 How to reach me manuelvalentin1999@gmail.com
 
-- 📄 Know about my experiences [I'm a computer engineer who is beginning his journey in the wonderful world of full stack software development.](I'm a computer engineer who is beginning his journey in the wonderful world of full stack software development.)
+- 📄 I'm a computer engineer who is beginning his journey in the wonderful world of full stack software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
